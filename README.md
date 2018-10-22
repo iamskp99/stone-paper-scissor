@@ -1,2 +1,2 @@
 # stone-paper-scissor
-This is a code breaker game made with python. In this game,you will have to guess a no. and there will be a result.
+This is a stone-paper-scissor game made with python. In this game,you will have to guess from the options and there will be a result.
